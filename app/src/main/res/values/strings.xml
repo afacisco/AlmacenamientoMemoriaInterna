@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Almacenamiento Memoria Interna</string>
+    <string name="nombre_text">Nombre</string>
+    <string name="telefono_text">Teléfono</string>
+    <string name="boton_text">Guardar Datos</string>
+</resources>
